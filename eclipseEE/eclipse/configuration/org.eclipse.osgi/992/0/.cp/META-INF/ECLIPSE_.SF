@@ -1,0 +1,52 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Lhr7BHKoQgUTHSqeZIFbq4HQhQU=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: gdHummAhR8hxHc3GvyYQar3B4C8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: VJETIntro/overview.xml
+SHA1-Digest: plEMJHKikIqcZIY//y4wTgQFpYk=
+
+Name: cheatsheets/HelloWorldBrowser.xml
+SHA1-Digest: ryL2zQRNTQZe+aBnGa+9Uf8lc30=
+
+Name: META-INF/maven/org.eclipse.vjet.eclipse.plugins/org.eclipse.vjet
+ .eclipse.welcome/pom.properties
+SHA1-Digest: TW/8KV57dBVA+6FH0s/WRb1RRPg=
+
+Name: about.html
+SHA1-Digest: i6rlTUPI5QxFW5g1S+HUWp1vv1s=
+
+Name: VJETIntro/tutorial.xml
+SHA1-Digest: 0BVDLom4QOOAdnYXtdOdWnub6Nk=
+
+Name: cheatsheets/UsingDojoTL.xml
+SHA1-Digest: A2w4QV8J1KdgtWDtmFJzDSxIRjU=
+
+Name: plugin.properties
+SHA1-Digest: cmjXq2pH6CXb1B+IybRVE/0q4YA=
+
+Name: VJETIntro/css/graphics/vjetlogosmallflameonly.gif
+SHA1-Digest: Eac7Ey2ElyWXMb1491W2srHwMMs=
+
+Name: cheatsheets/UsingJQueryTypeLibrary.xml
+SHA1-Digest: 2WJ9hrG37xUsf7gzNXxReHsZfhE=
+
+Name: VJETIntro/css/sample.css
+SHA1-Digest: gnGDGIsvRGatO4zV8g8e2tDRvow=
+
+Name: cheatsheets/HelloWorld.xml
+SHA1-Digest: 0MVqjQohMer5Ga9yjcymVv+1dYo=
+
+Name: cheatsheets/UsingJqueryTL.xml
+SHA1-Digest: ulM0E0ynYuiqI/Q/7AxtxHzewV8=
+
+Name: plugin.xml
+SHA1-Digest: QHQF+K043mCsvcMQ23pDYl4X+dQ=
+
+Name: META-INF/maven/org.eclipse.vjet.eclipse.plugins/org.eclipse.vjet
+ .eclipse.welcome/pom.xml
+SHA1-Digest: rkKlHnG3LqPk0cV+A7fih/EjLu0=
+

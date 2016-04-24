@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_21
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Name: Welcome
+Built-By: hudsonbuild
+Bundle-SymbolicName: org.eclipse.vjet.eclipse.welcome;singleton:=true
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.ui
+ .intro,org.eclipse.ui.intro.universal,org.eclipse.ui.cheatsheets;bund
+ le-version="[3.2.0,4.0.0)"
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Bundle-Version: 0.10.0.201303191704
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+
+Name: VJETIntro/overview.xml
+SHA1-Digest: aLU7r8bR9y3C/L+aS3leOJelamc=
+
+Name: cheatsheets/HelloWorldBrowser.xml
+SHA1-Digest: CyzGXkpo9ROy/Zd3+Wqnj1Kcvoc=
+
+Name: META-INF/maven/org.eclipse.vjet.eclipse.plugins/org.eclipse.vjet
+ .eclipse.welcome/pom.properties
+SHA1-Digest: huq++aQCw89wJLq5uUZ41crWvM0=
+
+Name: about.html
+SHA1-Digest: brRZHaa/of+NR/J3dOsOtIoy5jc=
+
+Name: VJETIntro/tutorial.xml
+SHA1-Digest: S/PZqpM2XPix4EmWnhc24GO5kLk=
+
+Name: cheatsheets/UsingDojoTL.xml
+SHA1-Digest: 1z6+s6jTPymv+vXBAri+7SRPpUY=
+
+Name: plugin.properties
+SHA1-Digest: +/aHRtELRVWOlZp2SqFhSeVc8yo=
+
+Name: VJETIntro/css/graphics/vjetlogosmallflameonly.gif
+SHA1-Digest: t18ihkMy7gDBkd/AnFZ2frjDKSs=
+
+Name: cheatsheets/UsingJQueryTypeLibrary.xml
+SHA1-Digest: Hs8SQqp/G2twoF85V3eO169v7zg=
+
+Name: VJETIntro/css/sample.css
+SHA1-Digest: H2MbSRQ86DVLrfJB03mxM0uJZPE=
+
+Name: cheatsheets/HelloWorld.xml
+SHA1-Digest: kUxPrJB2sAf8LXvEhjS5ZU/kRw8=
+
+Name: cheatsheets/UsingJqueryTL.xml
+SHA1-Digest: nItw+plwg3l5Po4obPGyywKzr3A=
+
+Name: plugin.xml
+SHA1-Digest: x+R7QOH9ogDMp64HC7RSp7j4jTo=
+
+Name: META-INF/maven/org.eclipse.vjet.eclipse.plugins/org.eclipse.vjet
+ .eclipse.welcome/pom.xml
+SHA1-Digest: C08InGFIIsLVpLlFq/wmgrP7HD0=
+
